@@ -1,1 +1,2 @@
 sysusers.d/* /usr/lib/sysusers.d
+runonce/sysusers-update /usr/share/runonce/scripts

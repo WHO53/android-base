@@ -14,6 +14,7 @@ Description: Android base mountpoints
 
 Package: android-base-passwd
 Architecture: all
+Pre-Depends: runonce (>= 2)
 Depends: ${misc:Depends}
 Description: Android base users and groups
 
